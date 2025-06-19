@@ -1,13 +1,16 @@
 # socialCreditScoreDecentralized
 
+I was commenting on a [post](https://www.reddit.com/r/Bitcoin/comments/1les1mc/what_are_your_nonprofit_app_ideas/) earlier and cannot post the rest of the idea so here is a more user friendly version of the investment portion since im already committed to this idea of mine lol....it could still be non-profit of course and im sure if you are a good developer you can get plenty people in the Bitcoin space to support instead of dealing with the shark tank traditionalists.
 
+<details>
+<summary>Click to expand original post's comment</summary>
 
 So i have quite a few ideas and when i saw this one i figure id play around with my idea i want for a game id like to build but have no real skills or money to do it myself. I practically use AI for all my coding now days even though i spent 2 years learning to code on my own which just feels like im cheating these days since i use the AI so much lol.
 
 So of course with AI i played out a scenario for my idea. Theres more to this one idea but hopefully it makes sense and isnt to laughable or useless to at least consider. The short version: Its an api idea to seamlessly build lightning into apps and games where in game credits or points can be directly scanned into bitcoin lightning wallets. I thought of building it into a zombie apolcolypse game someday as an easter egg. XD....Not sure if i will ever be able to do such a thing so hopefully someone steals the idea and makes it possible. Its my way imagining how we can secretly orange pill the world little by little lol.
 
-The Long Version, imagined as a shark tank presentation you are watching:
 <details>
+<summary>click for Long Version</summary>
 
 ## Where Your Investment Goes: Building the Future of Lightning Points
 
@@ -57,14 +60,7 @@ Part of your investment will strengthen this integration, ensuring it’s fast, 
 The Bitcoin Lightning Network is fast and cheap—your $500,000 makes it **universal, invisible, and insanely convenient**. We’re not just coding software; we’re paving the way for Bitcoin to power everyday life. That’s the deal you’re in on.
 
 </details>
-
-
-<br>
-<br>
-
-
-I was commenting on a [post](https://www.reddit.com/r/Bitcoin/comments/1les1mc/what_are_your_nonprofit_app_ideas/) earlier and cannot post the rest of the idea so here is a more user friendly version of the investment portion since im already committed to this idea of mine lol....it could still be non-profit of course and im sure if you are a good developer you can get plenty people in the Bitcoin space to support instead of dealing with the shark tank traditionalists.
-
+</details>
 
 # Lightning Points Investment Pitch: Freeing Digital Value
 
@@ -75,14 +71,14 @@ Lightning Points is a universal point system powered by Bitcoin’s Lightning Ne
 
 ### Part 1: Platform-Specific Software for Seamless Integration
 **Short Version**:  
-A third of our $500,000 will build software for platforms like Xbox and mobile apps, turning them into Bitcoin Lightning nodes for instant, user-owned point transactions. It’s plug-and-play, so companies adopt easily, and users spend points anywhere, including on Bitrefill’s 5,000+ products. This makes Lightning Points frictionless and universal, without users knowing it’s Bitcoin.
+Two-thirds of our $500,000 will build software for platforms like Xbox and mobile apps, turning them into Bitcoin Lightning nodes for instant, user-owned point transactions. It’s plug-and-play, so companies adopt easily, and users spend points anywhere, including on Bitrefill’s 5,000+ products. This makes Lightning Points frictionless and universal, without users knowing it’s Bitcoin.
 
 <details>
 <summary>Click to Expand Long Version</summary>
 
 ## Building the Future of Lightning Points
 
-The Bitcoin Lightning Network is already running—people use nodes on Raspberry Pis with tools like Umbrel, proving it works. But it’s not ready for Xbox, PlayStation, or airport apps. A third of our $500,000 ask will create **platform-specific software modules** to make Lightning Points a no-brainer for any company or device.
+The Bitcoin Lightning Network is already running—people use nodes on Raspberry Pis with tools like Umbrel, proving it works. But it’s not ready for Xbox, PlayStation, or airport apps. Two-thirds of our $500,000 ask will create **platform-specific software modules** to make Lightning Points a no-brainer for any company or device.
 
 These modules let platforms run lightweight Bitcoin Lightning nodes in the background, handling self-custodial point transactions (really satoshis) without users or platforms needing to understand Bitcoin’s complexities. Our goal is a seamless experience where users see points that work everywhere, backed by our partnership with **Bitrefill**, offering access to over 5,000 products globally—like gift cards and phone top-ups.
 
@@ -114,16 +110,16 @@ Our Bitrefill partnership is huge—they’re the top player on the Bitcoin Ligh
 Part of the investment strengthens this integration for speed and reliability.
 
 ### 4. The Breakdown
-- **Development Costs ($200,000)**: Pays engineers to build console modules, mobile wallets, and Bitrefill integrations, optimized for lightweight Bitcoin Lightning nodes.
-- **Testing & Security ($66,667)**: Stress-tests millions of transactions and hires security auditors for bulletproof self-custody.
-- **Rollout & Support ($66,667)**: Funds partnerships with early adopters like game studios or airport apps, plus support to scale.
+- **Development Costs ($266,667)**: Pays engineers to build console modules, mobile wallets, and Bitrefill integrations, optimized for lightweight Bitcoin Lightning nodes.
+- **Testing & Security ($33,333)**: Stress-tests millions of transactions and hires security auditors for bulletproof self-custody.
+- **Rollout & Support ($33,333)**: Funds partnerships with early adopters like game studios or airport apps, plus support to scale.
 
 ### Why This Wins
 - **For Platforms**: Easy integration with Bitrefill’s 5,000+ products, unlocking Bitcoin tech and new revenue streams.
 - **For Users**: Freedom to own and use points across ecosystems or Bitrefill’s catalog, like cash but better.
 - **For Us**: Makes Lightning Points the go-to solution for ditching centralized points, with Bitrefill as a massive value-add.
 
-A third of your $500,000 makes Bitcoin universal and invisible, paving the way for mass adoption.
+Two-thirds of your $500,000 makes Bitcoin universal and invisible, paving the way for mass adoption.
 
 </details>
 
@@ -131,7 +127,7 @@ A third of your $500,000 makes Bitcoin universal and invisible, paving the way f
 
 ### Part 2: Decentralized Digital IDs with LNURL
 **Short Version**:  
-A third of our $500,000 will make LNURL a login standard, turning Lightning Points accounts into decentralized digital IDs. Users log in with Bitcoin Lightning wallets, build secure profiles, and use points anywhere, including Bitrefill’s 5,000+ products. It’s simpler than Google login, freeing users from centralized control.
+One-third of our $500,000 will make LNURL a login standard, turning Lightning Points accounts into decentralized digital IDs with secure 2FA. Users log in with Bitcoin Lightning wallets, build profiles, and use points anywhere, including Bitrefill’s 5,000+ products. It’s simpler than Google login, freeing users from centralized control.
 
 <details>
 <summary>Click to Expand Long Version</summary>
